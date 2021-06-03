@@ -1,4 +1,4 @@
-package com.chansonzhang.mleap.example.spark
+package com.chansonzhang.example.spark
 
 /**
  * Copyright 2021 Zhang, Chen. All Rights Reserved.

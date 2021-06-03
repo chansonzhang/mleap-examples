@@ -1,4 +1,4 @@
-package com.chansonzhang.mleap.example.spark
+package com.chansonzhang.example.spark
 
 import ml.combust.bundle.BundleFile
 import ml.combust.mleap.spark.SparkSupport.SparkTransformerOps
